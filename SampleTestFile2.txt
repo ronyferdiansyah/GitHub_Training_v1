@@ -3,3 +3,4 @@ This is sample file 2
 This is also comparison lecure, changes in file 2
 
 This part is added for merging to develop branch
+This is Stash lecture. Changes in File 2.

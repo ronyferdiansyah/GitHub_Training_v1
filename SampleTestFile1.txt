@@ -1,1 +1,2 @@
 This is sample file 1
+This is Stash lecture. Changes in File 1.
