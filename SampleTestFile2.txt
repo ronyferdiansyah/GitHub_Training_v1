@@ -1,3 +1,5 @@
 Commit revert 1
 This is sample file 2
 This is also comparison lecure, changes in file 2
+
+This part is added for merging to develop branch
