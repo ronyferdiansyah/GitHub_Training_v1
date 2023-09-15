@@ -1,1 +1,2 @@
 Commit sample file on main
+This is Stash lecture. Changes in Main file.
